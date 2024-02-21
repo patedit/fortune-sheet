@@ -11304,8 +11304,8 @@ export default {
   fontFamily: {
     MicrosoftYaHei: "YaHei",
   },
-  fontarray: ["Times New Roman", "Arial", "Tahoma", "Verdana"],
-  fontjson: { "times new roman": 0, arial: 1, tahoma: 2, verdana: 3 },
+  fontarray: ["Arial", "Times New Roman", "Tahoma", "Verdana"],
+  fontjson: { arial: 0, "times new roman": 1, tahoma: 2, verdana: 3 },
   border: {
     borderTop: "Top border",
     borderBottom: "Bottom border",
@@ -11665,7 +11665,7 @@ export default {
     tipNameRepeat: "The name of the tab page cannot be repeated! Please revise",
     noMoreSheet:
       "The workbook contains at least one visual worksheet. To delete the selected worksheet, please insert a new worksheet or show a hidden worksheet.",
-    confirmDelete: "Are you sure to delete",
+    confirmDelete: "Are you sure do you want to delete this sheet?",
     redoDelete: "Can be undo by Ctrl+Z",
     noHide: "Can't hide, at least keep one sheet tag",
     chartEditNoOpt: "This operation is not allowed in chart editing mode!",

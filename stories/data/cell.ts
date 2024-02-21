@@ -5908,7 +5908,7 @@ const data = {
           t: "inlineStr",
           s: [
             {
-              ff: '"times new roman"',
+              ff: '"arial"',
               fc: "rgb(51, 51, 51)",
               fs: "12",
               cl: 0,
