@@ -39,3 +39,12 @@ pnpm install @fortune-sheet/react
 4. Restart project
 
 You can also run `make update-fortune-sheet` if you are on Lymon
+
+
+### How to publish
+Make sure you are logged in `npm whoami`
+
+1. Build `yarn build`
+2. `yarn lerna publish`
+
+It might error on formula-parser but we can dismiss for now. Check on NPM registry that new version is uploaded.

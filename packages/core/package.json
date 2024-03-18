@@ -1,6 +1,6 @@
 {
-  "name": "@fortune-sheet/core",
-  "version": "0.19.299",
+  "name": "@lymonapp/fortune-sheet-core",
+  "version": "0.19.307",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "e99c743919cf5f03396a2a81afe4a7fd63f0a46d"
 }
