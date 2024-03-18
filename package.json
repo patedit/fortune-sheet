@@ -1,6 +1,5 @@
 {
-  "name": "@patedit/fortune-sheet",
-  "private": true,
+  "name": "@lymonapp/fortune-sheet",
   "version": "0.1.0",
   "workspaces": [
     "packages/*"
@@ -18,6 +17,7 @@
     "tsc": "tsc --noEmit",
     "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx,.json ./packages",
     "postinstall": "lerna run build --scope=@fortune-sheet/formula-parser",
+    "publish": "npm publish packages/core --registry 'https://registry.npmjs.org' && npm publish packages/react --registry 'https://registry.npmjs.org'",
     "test": "jest",
     "coverage": "jest --coverage"
   },

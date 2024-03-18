@@ -1,5 +1,5 @@
 {
-  "name": "@patedit/core",
+  "name": "@lymonapp/core",
   "version": "0.19.300",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
