@@ -1,6 +1,6 @@
 {
   "name": "@lymonapp/formula-parser",
-  "version": "0.19.300",
+  "version": "0.19.302",
   "description": "Formula parser",
   "main": "lib/index.js",
   "module": "es/index.js",

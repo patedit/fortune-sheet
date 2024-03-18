@@ -1,6 +1,6 @@
 {
   "name": "@lymonapp/core",
-  "version": "0.19.300",
+  "version": "0.19.302",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
