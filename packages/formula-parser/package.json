@@ -1,6 +1,6 @@
 {
   "name": "@lymonapp/fortune-sheet-formula-parser",
-  "version": "0.19.302",
+  "version": "0.19.303",
   "description": "Formula parser",
   "main": "lib/index.js",
   "module": "es/index.js",
