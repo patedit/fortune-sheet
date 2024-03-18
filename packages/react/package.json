@@ -13,7 +13,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@lymonapp/fortune-sheet-core": "^0.2.10",
+    "@lymonapp/fortune-sheet-core": "latest",
     "immer": "^9.0.12",
     "lodash": "^4.17.21"
   },
@@ -37,5 +37,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "71e1cf9e27f5a7672c895142aecdeb4d32872bea"
+  "gitHead": "b9f9ce5dfef6bf7f9082aa62aa78fc54704a0d18"
 }
