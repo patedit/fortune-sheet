@@ -1,5 +1,5 @@
 {
-  "name": "@fortune-sheet/react",
+  "name": "@patedit/react",
   "version": "0.19.299",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

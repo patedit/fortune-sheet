@@ -1,5 +1,5 @@
 {
-  "name": "@fortune-sheet/core",
+  "name": "@patedit/core",
   "version": "0.19.299",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
