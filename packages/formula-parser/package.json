@@ -1,6 +1,6 @@
 {
   "name": "@patedit/formula-parser",
-  "version": "0.2.10",
+  "version": "0.19.300",
   "description": "Formula parser",
   "main": "lib/index.js",
   "module": "es/index.js",

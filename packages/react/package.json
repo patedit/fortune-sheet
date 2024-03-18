@@ -1,6 +1,6 @@
 {
   "name": "@patedit/react",
-  "version": "0.19.299",
+  "version": "0.19.300",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.esm.js",

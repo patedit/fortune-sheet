@@ -1,6 +1,6 @@
 {
   "name": "@patedit/core",
-  "version": "0.19.299",
+  "version": "0.19.300",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
