@@ -1,7 +1,7 @@
 {
   "name": "@lymonapp/fortune-sheet",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
