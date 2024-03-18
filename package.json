@@ -1,11 +1,14 @@
 {
-  "name": "fortune-sheet",
+  "name": "@patedit/fortune-sheet",
   "private": true,
   "version": "0.1.0",
   "workspaces": [
     "packages/*"
   ],
-  "repository": "https://github.com/ruilisi/fortune-sheet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruilisi/fortune-sheet.git"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "npx yarn storybook",
@@ -70,9 +73,7 @@
     "react-dom": "^18.2.0",
     "typescript": "^4.9.4"
   },
-  "gitHooks": {
-    "pre-commit": "npx yarn lint"
-  },
+
   "resolutions": {
     "react": "^18.2.0",
     "eslint": "^8.31.0"
