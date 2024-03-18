@@ -1,5 +1,5 @@
 {
-  "name": "@patedit/react",
+  "name": "@lymonapp/fortune-sheet-react",
   "version": "0.19.302",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@fortune-sheet/core": "^0.2.10",
+    "@lymonapp/fortune-sheet-core": "^0.2.10",
     "immer": "^9.0.12",
     "lodash": "^4.17.21"
   },
@@ -37,5 +37,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e2d245ff548ff53323783b0ed60b72d7facfa39c"
+  "gitHead": "71e1cf9e27f5a7672c895142aecdeb4d32872bea"
 }

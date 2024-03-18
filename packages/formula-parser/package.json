@@ -1,5 +1,5 @@
 {
-  "name": "@lymonapp/formula-parser",
+  "name": "@lymonapp/fortune-sheet-formula-parser",
   "version": "0.19.302",
   "description": "Formula parser",
   "main": "lib/index.js",
@@ -69,5 +69,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "71e1cf9e27f5a7672c895142aecdeb4d32872bea"
 }
